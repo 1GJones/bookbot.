@@ -1,2 +1,4 @@
 # bookbot.
-Public 
+BookBot is my first project!
+
+ 
